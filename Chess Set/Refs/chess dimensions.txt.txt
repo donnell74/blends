@@ -1,0 +1,2 @@
+Chess board and piece standards
+The United States Chess Federation (USCF) states that square size should be anywhere from 2 inches to 2.5 inches, while the king's height should be 3.375 inches to 4.5 inches. The standard USCF tournament set has 2.25 inch squares and a king's height of 3.75 inches.
